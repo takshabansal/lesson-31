@@ -9,7 +9,7 @@ class United_States_of_America():
     def capital(self):
         print("Washington D.C. is the capital of United_States_of_America")
     def language(self):
-        print("English(American, not british) is the most widely spoken language of United_States_of_America")
+        print("English (American, not british) is the most widely spoken language of United_States_of_America")
     def type(self):
         print("United_States_of_America is a developed country")
 class Russian_Federation():
